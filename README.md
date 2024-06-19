@@ -15,7 +15,7 @@ the annual report, etc.
 What columns does the script create?
 • Home Page
 • PMID
-• Year of manufacture
+• Year of publication
 • Affiliation with the authors
 • The first author
 • DOI of the journal
