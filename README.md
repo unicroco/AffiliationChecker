@@ -16,7 +16,7 @@ What columns does the script create?
 • Home Page
 • PMID
 • Year of publication
-• Affiliation with the authors
+• Authors within provided list
 • The first author
 • DOI of the journal
 • Link
