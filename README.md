@@ -38,7 +38,7 @@ Notes.
 opening a file in other regions, the entire record can be compiled without splitting into different
 columns. The script allows you to adapt the division of columns in the European region and Asia. Please
 let me know if there are any errors.
-• Realizing the presence of virus threats, in addition to the executable file, a Syntax file was added so
+• Realizing the presence of virus threats, in addition to the executable file that is placed in dist dir, a Syntax file was added so
 that each user could safely download the script and view it. Also, I added the project in .py format.
 • Since Pubmed does not accurately filter out affiliations, there may be cases when an article written by
 an author from a list with another affiliation will still be in the output due to the presence of other
