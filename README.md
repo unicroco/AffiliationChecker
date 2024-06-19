@@ -1,5 +1,5 @@
 # AffiliationChecker
-This is the first version of the script that allows you to compile and add articles downloaded from Pubmed to a csv file.
+This is the first version of the script written in Python that allows you to compile and add articles downloaded from Pubmed to a csv file.
 What functionality is implemented:
 
 1. Filter out publications by irrelevant authors with the requested affiliation
